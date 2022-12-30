@@ -1,2 +1,8 @@
-# SF_DST
-For SkillFactory training
+# My Data Science projects
+
+
+## Проекты
+
+*[Проект 0. Игра "Угадай число"]()
+*[Проект 1.]()
+*[Проект 2.]()
