@@ -17,7 +17,7 @@ def game_core_v3(number:int=1) -> int:
     
     count = 0
     start = 0
-    finish = 101
+    finish = 100
 
     while True:
         count += 1
@@ -25,9 +25,12 @@ def game_core_v3(number:int=1) -> int:
 
         if number > predict_number:
             start = predict_number
+            #print(start, finish)
         elif number < predict_number:
             finish = predict_number 
-        elif number == predict_number:
+            #print(start, finish)
+        else: 
+            #print(f'Угадали!!! Это было число {number}')
             break # конец игры, если угадали
 
     return(count)
