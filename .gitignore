@@ -1,3 +1,6 @@
+# Data file
+*hh_database.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
