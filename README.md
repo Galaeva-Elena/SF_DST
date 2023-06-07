@@ -3,6 +3,6 @@
 
 ## Проекты
 
-*[Проект 0. Игра "Угадай число"](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0)
-*[Проект 1.]()
+*[Проект 0. Игра "Угадай число"](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-0)
+*[Проект 1. Анализ резюме из HeadHunter](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-1)
 *[Проект 2.]()
