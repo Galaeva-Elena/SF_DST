@@ -1,12 +1,12 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0#описание-проекта)\
+[1. Описание проекта](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#описание-проекта)\
 [2. Какой кейс решаем?](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0#какой-кейс-решаем)\
-[3. Краткая информация о данных](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0#краткая-информация-о-данных)\
-[4. Этапы работы над проектом](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0#этапы-работы-над-проектом)\
-[5. Результат](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0#результат)\
-[6. Выводы](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0#выводы)
+[3. Краткая информация о данных](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#этапы-работы-над-проектом)\
+[5. Результат](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#результат)\
+[6. Выводы](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#выводы)
 
 ### Описание проекта
 Анализ датасета с вакансиями из HeadHunter.
@@ -37,4 +37,4 @@
 ### Выводы
 Выводы по результатам анализа размещены под каждым разделом, плюс общий вывод добавлен в конце проекта.
 
-:arrow_up:[к оглавлению](https://github.com/Galaeva-Elena/SF_DST/blob/main/project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-2#оглавление)
