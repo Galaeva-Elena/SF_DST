@@ -1,12 +1,12 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#описание-проекта)\
-[2. Какой кейс решаем?](https://github.com/Galaeva-Elena/SF_DST/tree/main/project_0#какой-кейс-решаем)\
-[3. Краткая информация о данных](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#краткая-информация-о-данных)\
-[4. Этапы работы над проектом](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#этапы-работы-над-проектом)\
-[5. Результат](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#результат)\
-[6. Выводы](https://github.com/Galaeva-Elena/SF_DST/tree/main/project-2#выводы)
+[1. Описание проекта](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-2#описание-проекта)\
+[2. Какой кейс решаем?](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-2#какой-кейс-решаем)\
+[3. Краткая информация о данных](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-2#краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-2#этапы-работы-над-проектом)\
+[5. Результат](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-2#результат)\
+[6. Выводы](https://github.com/Galaeva-Elena/SF_DST/tree/main/PROJECT-2#выводы)
 
 ### Описание проекта
 Анализ датасета с вакансиями из HeadHunter.
